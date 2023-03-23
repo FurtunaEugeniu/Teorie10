@@ -15,18 +15,18 @@
             <a href="">
                 <img src="{{asset ('imagini/logo.png')}}" alt="" class="logo">
             </a>
-            <nav>
-                <a href="">Despre</a>
-                <a href="">Produse  metodice</a>
-                <a href="">Exemple de lucru</a>
+            <nav class="links">
+                <a href="#" class="active">Despre</a>
+                <a href="#">Produse  metodice</a>
+                <a href="#">Exemple de lucru</a>
             </nav>
         </nav>
         <div class="home-content">
             <h1>Perform de promovare</h1>
             <p>Centrul Republican de Învățământ din subordinea Ministerului Educației Publice Platforma unică servește la popularizarea celor mai bune practici ale pedagogilor</p>
             <div class="buttons">
-                <a href="">Inscrie-te</a>
-                <a href="">Autentificare</a>
+                <a href="#">Inscrie-te</a>
+                <a href="#">Autentificare</a>
             </div>
         </div>
     </header>
