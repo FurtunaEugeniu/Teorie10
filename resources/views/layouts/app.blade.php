@@ -25,8 +25,8 @@
             <h1>Perform de promovare</h1>
             <p>Centrul Republican de Învățământ din subordinea Ministerului Educației Publice Platforma unică servește la popularizarea celor mai bune practici ale pedagogilor</p>
             <div class="buttons">
-                <a href="#">Inscrie-te</a>
-                <a href="#">Autentificare</a>
+                <a href="#" class="login">Inscrie-te</a>
+                <a href="#" class="register">Autentificare</a>
             </div>
         </div>
     </header>
